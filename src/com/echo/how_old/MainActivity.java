@@ -1,4 +1,6 @@
-package com.example.how_old;
+package com.echo.how_old;
+
+import com.example.how_old.R;
 
 import android.os.Bundle;
 import android.app.Activity;
